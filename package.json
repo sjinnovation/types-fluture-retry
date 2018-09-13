@@ -1,9 +1,9 @@
 {
   "name": "@types/fluture-retry",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Types for fluture retry library",
   "license": "MIT",
   "peerDependencies": {
-    "fluture": ">=6.0.0 <11.0.0"
+    "fluture": ">=6.0.0 <8.0.0"
   }
 }
