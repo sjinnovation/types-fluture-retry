@@ -1,5 +1,5 @@
 {
-  "name": "@types/fluture-retry",
+  "name": "types-fluture-retry",
   "version": "1.0.4",
   "description": "Types for fluture retry library",
   "license": "MIT",
